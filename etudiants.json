@@ -137,6 +137,22 @@
         "attente_2": null,
         "attente_3": null,
         "note_conseiller": "Choix 7 — très sélectif, profil scientifique fort requis."
+      },
+      {
+        "ecole": "ISCAE : Institut supérieur de commerce et d'administration des entreprises",
+        "groupe": "ISCAE",
+        "ville": "CASABLANCA",
+        "lien": "https://cvip.sphinxonline.net/surveyserver/b/giscaeconc/ConcoursISCAE-LFG26-27?c=!CfDJ8CumcsQfzS9HhGjiG_ld66u_UXaVv9b9_Tjjkld4FLXCVw8Tat8IJOxbIt04a8yIlUAxh9fw40zr1bZFTQB3v2UJC8PfPm9uyF7DPyR16N4HztEM5pt9D0FOKskPfRrKHa_C0Oht3m27-7fLKvIZbq9sQkVi-Phq6E4bXNBOJt0A7Eqyo3T7kQLC0FcpFepHtw&p=!CfDJ8CumcsQfzS9HhGjiG_ld66t3xA-Mmso-kCgzsz5OHUt015zjeCKXTfCrt-abBu3vF7zZoOlPzPvSqXCyBuXR1Rx2Mv6dc2Oi0Iy9x9i7L1NlQJVuHMaC7FLhJyVlGi-jytGYDyqmGlAhW2QgBGtzgPs8K6A8MXkanhUCj197fXUcZIGxUNxN3K5GwYw23tmrYA",
+        "num_dossier": null,
+        "date_inscription": "2026-06-14",
+        "date_concours": null,
+        "date_resultats": null,
+        "statut": "inscrit",
+        "liste_principale": null,
+        "attente_1": null,
+        "attente_2": null,
+        "attente_3": null,
+        "note_conseiller":null,
       }
     ]
   }
